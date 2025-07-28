@@ -1,0 +1,5 @@
+<map id="XsArrayImpl&lt; T, D, I &gt;" name="XsArrayImpl&lt; T, D, I &gt;">
+<area shape="rect" id="node1" title="A C++ wrapper for XsArray, this is a template class for the actual specialized classes." alt="" coords="16,80,171,107"/>
+<area shape="rect" id="node3" href="$struct_xs_string.html" title="A 0&#45;terminated managed string of characters." alt="" coords="5,155,181,196"/>
+<area shape="rect" id="node2" href="$struct_xs_array.html" title="Provides generic storage for data in an array and manipulation operations on that data." alt="" coords="60,5,127,32"/>
+</map>

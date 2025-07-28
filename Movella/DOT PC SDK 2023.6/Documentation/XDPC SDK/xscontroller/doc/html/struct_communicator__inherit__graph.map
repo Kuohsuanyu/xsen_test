@@ -1,0 +1,12 @@
+<map id="Communicator" name="Communicator">
+<area shape="rect" id="node1" title="A base struct for a communication interface." alt="" coords="191,229,297,256"/>
+<area shape="rect" id="node5" href="$class_device_communicator.html" title="A class that is used for the communcation with a device." alt="" coords="89,304,231,331"/>
+<area shape="rect" id="node10" href="$class_mtb_file_communicator.html" title="A class that is used for the communcation with a mtb file." alt="" coords="256,304,403,331"/>
+<area shape="rect" id="node2" href="$class_callback_manager_xda.html" title="Class that delegates callbacks to registered XsCallbackHandlerItems." alt="" coords="173,155,315,181"/>
+<area shape="rect" id="node3" href="$class_xs_callback.html" title="Structure that contains callback functions for the Xsens Device API." alt="" coords="203,80,285,107"/>
+<area shape="rect" id="node4" href="$struct_xs_callback_plain_c.html" title="Structure that contains callback functions for the Xsens Device API." alt="" coords="185,5,303,32"/>
+<area shape="rect" id="node6" href="$class_serial_communicator.html" title="A class that uses serial communication." alt="" coords="91,379,229,405"/>
+<area shape="rect" id="node7" href="$class_proxy_communicator.html" title=" " alt="" coords="5,453,141,480"/>
+<area shape="rect" id="node8" href="$class_serial_port_communicator.html" title="A class that uses serial port to communicate." alt="" coords="166,453,327,480"/>
+<area shape="rect" id="node9" href="$class_usb_communicator.html" title="A class that uses USB to communicate." alt="" coords="183,528,310,555"/>
+</map>

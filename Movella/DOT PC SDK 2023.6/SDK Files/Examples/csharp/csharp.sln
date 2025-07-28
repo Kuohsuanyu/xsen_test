@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movella DOT CSharp Example Write", "Movella DOT CSharp Example Write.csproj", "{05F90BAF-4806-4D28-9C2C-841791E22D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movella DOT CSharp Example Receive Data", "Movella DOT CSharp Example Receive Data.csproj", "{87690D88-DE61-476D-B2CE-8741D81AB05F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movella DOT CSharp Example Firmware Update", "Movella DOT CSharp Example Firmware Update.csproj", "{F0031831-C7DF-4CA5-9607-1EEAFDE4D89B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movella DOT CSharp Example Magnetic Field Mapper", "Movella DOT CSharp Example Magnetic Field Mapper.csproj", "{841212E9-6B29-4919-B62A-C3400B220887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movella DOT CSharp Example Onboard Recording", "Movella DOT CSharp Example Onboard Recording.csproj", "{4D92AD30-7097-4543-B89E-5613D3DB2114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movella DOT CSharp Example Data Export", "Movella DOT CSharp Example Data Export.csproj", "{38F881C9-BFDF-42C3-88C7-431C6B77B982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movella DOT CSharp Example Synchronization", "Movella DOT CSharp Example Synchronization.csproj", "{E19E89BC-73C3-41D2-9693-48690C855484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F90BAF-4806-4D28-9C2C-841791E22D7F}.Debug|x64.ActiveCfg = Debug|x64
+		{05F90BAF-4806-4D28-9C2C-841791E22D7F}.Debug|x64.Build.0 = Debug|x64
+		{05F90BAF-4806-4D28-9C2C-841791E22D7F}.Release|x64.ActiveCfg = Release|x64
+		{05F90BAF-4806-4D28-9C2C-841791E22D7F}.Release|x64.Build.0 = Release|x64
+		{87690D88-DE61-476D-B2CE-8741D81AB05F}.Debug|x64.ActiveCfg = Debug|x64
+		{87690D88-DE61-476D-B2CE-8741D81AB05F}.Debug|x64.Build.0 = Debug|x64
+		{87690D88-DE61-476D-B2CE-8741D81AB05F}.Release|x64.ActiveCfg = Release|x64
+		{87690D88-DE61-476D-B2CE-8741D81AB05F}.Release|x64.Build.0 = Release|x64
+		{F0031831-C7DF-4CA5-9607-1EEAFDE4D89B}.Debug|x64.ActiveCfg = Debug|x64
+		{F0031831-C7DF-4CA5-9607-1EEAFDE4D89B}.Debug|x64.Build.0 = Debug|x64
+		{F0031831-C7DF-4CA5-9607-1EEAFDE4D89B}.Release|x64.ActiveCfg = Release|x64
+		{F0031831-C7DF-4CA5-9607-1EEAFDE4D89B}.Release|x64.Build.0 = Release|x64
+		{841212E9-6B29-4919-B62A-C3400B220887}.Debug|x64.ActiveCfg = Debug|x64
+		{841212E9-6B29-4919-B62A-C3400B220887}.Debug|x64.Build.0 = Debug|x64
+		{841212E9-6B29-4919-B62A-C3400B220887}.Release|x64.ActiveCfg = Release|x64
+		{841212E9-6B29-4919-B62A-C3400B220887}.Release|x64.Build.0 = Release|x64
+		{4D92AD30-7097-4543-B89E-5613D3DB2114}.Debug|x64.ActiveCfg = Debug|x64
+		{4D92AD30-7097-4543-B89E-5613D3DB2114}.Debug|x64.Build.0 = Debug|x64
+		{4D92AD30-7097-4543-B89E-5613D3DB2114}.Release|x64.ActiveCfg = Release|x64
+		{4D92AD30-7097-4543-B89E-5613D3DB2114}.Release|x64.Build.0 = Release|x64
+		{38F881C9-BFDF-42C3-88C7-431C6B77B982}.Debug|x64.ActiveCfg = Debug|x64
+		{38F881C9-BFDF-42C3-88C7-431C6B77B982}.Debug|x64.Build.0 = Debug|x64
+		{38F881C9-BFDF-42C3-88C7-431C6B77B982}.Release|x64.ActiveCfg = Release|x64
+		{38F881C9-BFDF-42C3-88C7-431C6B77B982}.Release|x64.Build.0 = Release|x64
+		{E19E89BC-73C3-41D2-9693-48690C855484}.Debug|x64.ActiveCfg = Debug|x64
+		{E19E89BC-73C3-41D2-9693-48690C855484}.Debug|x64.Build.0 = Debug|x64
+		{E19E89BC-73C3-41D2-9693-48690C855484}.Release|x64.ActiveCfg = Release|x64
+		{E19E89BC-73C3-41D2-9693-48690C855484}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49152E8D-33C0-44AE-AED8-6CFD87D3B6F3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_xs_dot_callback_plain_c.html" title="Structure that contains callback functions for the Movella DOT PC SDK API." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$class_xs_dot_callback.html" title="Structure that contains callback functions for the Movella DOT PC SDK API." alt="" coords="191,5,293,32"/>
+<area shape="rect" id="node3" href="$class_xs_dot_callback_manager.html" title="Class that delegates callbacks to registered XsDotCallbackHandlerItem." alt="" coords="341,5,493,32"/>
+</map>

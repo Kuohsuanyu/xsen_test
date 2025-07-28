@@ -1,0 +1,6 @@
+<map id="XsDataPacket_Private::XsEulerVariant" name="XsDataPacket_Private::XsEulerVariant">
+<area shape="rect" id="node1" title="Variant containing an XsEuler value." alt="" coords="24,288,169,329"/>
+<area shape="rect" id="node2" href="$struct_xs_data_packet___private_1_1_complex_variant.html" title=" " alt="" coords="5,184,188,240"/>
+<area shape="rect" id="node3" href="$class_xs_data_packet___private_1_1_generic_variant.html" title="Generic base class template for Variant subclasses." alt="" coords="13,95,180,136"/>
+<area shape="rect" id="node4" href="$class_xs_data_packet___private_1_1_variant.html" title="Abstract Variant class for handling contents of XsDataPacket." alt="" coords="24,5,169,47"/>
+</map>

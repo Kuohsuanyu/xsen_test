@@ -1,0 +1,4 @@
+<map id="DataLogger" name="DataLogger">
+<area shape="rect" id="node1" title="An abstract class for data logging." alt="" coords="16,5,103,32"/>
+<area shape="rect" id="node2" href="$class_mtb_data_logger.html" title="A class for logging the mtb data." alt="" coords="5,80,113,107"/>
+</map>

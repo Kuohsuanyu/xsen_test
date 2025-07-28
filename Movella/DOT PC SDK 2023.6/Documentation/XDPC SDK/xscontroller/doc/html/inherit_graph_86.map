@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classxsens_1_1_thread_pool_task.html" title="A generic task implementation for the thread pool." alt="" coords="5,31,161,57"/>
+<area shape="rect" id="node2" href="$classxsens_1_1_task_completion_waiter.html" title="A class that allows multiple&#45;dependency waiting." alt="" coords="233,5,427,32"/>
+<area shape="rect" id="node3" href="$classxsens_1_1_thread_pool_object_deleter.html" title="Task that will delete its object parameter." alt="" coords="209,56,451,83"/>
+</map>

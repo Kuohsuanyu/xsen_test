@@ -1,0 +1,5 @@
+<map id="XsDotCallbackManager" name="XsDotCallbackManager">
+<area shape="rect" id="node1" title="Class that delegates callbacks to registered XsDotCallbackHandlerItem." alt="" coords="5,155,157,181"/>
+<area shape="rect" id="node2" href="$class_xs_dot_callback.html" title="Structure that contains callback functions for the Movella DOT PC SDK API." alt="" coords="30,80,133,107"/>
+<area shape="rect" id="node3" href="$struct_xs_dot_callback_plain_c.html" title="Structure that contains callback functions for the Movella DOT PC SDK API." alt="" coords="13,5,150,32"/>
+</map>

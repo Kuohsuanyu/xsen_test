@@ -1,0 +1,5 @@
+<map id="XsStringArray" name="XsStringArray">
+<area shape="rect" id="node1" title="A list of XsString values." alt="" coords="44,184,145,211"/>
+<area shape="rect" id="node2" href="$struct_xs_array_impl.html" title=" " alt="" coords="5,80,184,136"/>
+<area shape="rect" id="node3" href="$struct_xs_array.html" title="Provides generic storage for data in an array and manipulation operations on that data." alt="" coords="61,5,128,32"/>
+</map>

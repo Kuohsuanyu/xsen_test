@@ -1,0 +1,8 @@
+<map id="MtbFileCommunicator" name="MtbFileCommunicator">
+<area shape="rect" id="node1" title="A class that is used for the communcation with a mtb file." alt="" coords="61,304,208,331"/>
+<area shape="rect" id="node2" href="$struct_communicator.html" title="A base struct for a communication interface." alt="" coords="23,229,129,256"/>
+<area shape="rect" id="node3" href="$class_callback_manager_xda.html" title="Class that delegates callbacks to registered XsCallbackHandlerItems." alt="" coords="5,155,147,181"/>
+<area shape="rect" id="node4" href="$class_xs_callback.html" title="Structure that contains callback functions for the Xsens Device API." alt="" coords="35,80,117,107"/>
+<area shape="rect" id="node5" href="$struct_xs_callback_plain_c.html" title="Structure that contains callback functions for the Xsens Device API." alt="" coords="17,5,135,32"/>
+<area shape="rect" id="node6" href="$class_file_loader.html" title="A class that loads file." alt="" coords="153,229,234,256"/>
+</map>

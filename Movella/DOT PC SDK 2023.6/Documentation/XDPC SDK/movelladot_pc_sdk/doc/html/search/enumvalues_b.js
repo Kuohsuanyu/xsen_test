@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['ratequantities_0',['RateQuantities',['../group__enums.html#ggae8101e0798e9fdddaea052bb21119b7aadaf706c6dedbe9ffbe102dd5e6aa191a',1,'xspayloadmode.h']]],
+  ['ratequantitieswmag_1',['RateQuantitieswMag',['../group__enums.html#ggae8101e0798e9fdddaea052bb21119b7aa799b0ce2ba4c89c58b6e8c93753f6172',1,'xspayloadmode.h']]],
+  ['recordingdata_5facceleration_2',['RecordingData_Acceleration',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77a6b25b7c54d67835f0df2e83e9eba11cd',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fangularvelocity_3',['RecordingData_AngularVelocity',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77af1675a16c506f27ffa86627a3af79861',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fclipcountacc_4',['RecordingData_ClipCountAcc',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77adebe695d99787ca63ecf9c5e2e4d7c93',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fclipcountgyro_5',['RecordingData_ClipCountGyro',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77aaa02743f59c573af7c6f8c8764c6205a',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fdq_6',['RecordingData_dQ',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77a02b1a7b76e2106545cecd5147ac7f76b',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fdv_7',['RecordingData_dV',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77a7cd945a2c52f7a6e24402090c11f1c8e',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5feuler_8',['RecordingData_Euler',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77a0f921eddfda9aac729508ddb553690a9',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fiq_9',['RecordingData_iQ',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77a2569d73098defc882ad3b617b42a8b9b',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fiv_10',['RecordingData_iV',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77a150441bd4ed07a81f8aff6f7c19b310f',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fmagneticfield_11',['RecordingData_MagneticField',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77af7dae7fbbbadfe835c72e54ac8ac586a',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fquaternion_12',['RecordingData_Quaternion',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77af7dd37ddb0c8669cdae2f65b0fbe0ff6',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5fstatus_13',['RecordingData_Status',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77a6e1403830a884b52bcf6e6e3634bbff0',1,'xsrecordingexportdatafield.h']]],
+  ['recordingdata_5ftimestamp_14',['RecordingData_Timestamp',['../group__enums.html#gga3ce0210c7d61e045de0a6848848ccc77a60e49b6892536966d860aae05e30d5d5',1,'xsrecordingexportdatafield.h']]],
+  ['reserved_15',['Reserved',['../group__enums.html#gga56654e594eb6496b1e8bd153a19a7442a942d4e37dd5607ab68e54755540d4a47',1,'xssyncacknowledgeresult.h']]]
+];
